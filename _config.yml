@@ -15,16 +15,16 @@ menu:
 
 # site logo introduce and footer quote
 # ====================================
-logo: Ztopic
+logo: MushrChun
 introduce: "practice makes perfect"
 quote: "Love all, trust a few, do wrong to none.——William Shakespeare"
 
 # social club
 # ====================================
 social:
-  zhihu: https://www.zhihu.com/
-  weibo: https://weibo.com
-  github: https://github.com/
+  zhihu: 
+  weibo: 
+  github: https://github.com/mushrchun
   steam:
   linkedin:
   facebook:
